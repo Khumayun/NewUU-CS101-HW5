@@ -3,25 +3,13 @@
 // Date:
 
 #include <iostream>
-#include <string>
+#include "problems.h"
 
 using namespace std;
 
 int main() {
-    cout << "PROBLEM 1\n";
-    // write your code for problem 1 here...
+    // TEST YOUR CODE HERE
 
-    cout << "PROBLEM 2\n";
-    // write your code for problem 2 here...
-
-    cout << "PROBLEM 3\n";
-    // write your code for problem 3 here...
-
-    cout << "PROBLEM 4\n";
-    // write your code for problem 4 here...
-
-    cout << "PROBLEM 5\n";
-    // write your code for problem 5 here...
 
     return 0;
 }
