@@ -17,8 +17,13 @@ int findArraySum(int arr[], int size) {
     return 0;
 }
 
-// Function to check if a number is in the array
+// Problem 4
 bool isInArray(int arr[], int size, int number) {
 
     return false;
+}
+
+// Problem 5
+void calculatePowerOfTwo(int arr[], int size) {
+
 }
